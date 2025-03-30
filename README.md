@@ -1,6 +1,5 @@
 # **PULSE CODE MODULATION**
-**Name:** Charan PG
-**Roll Number:** 212223060033
+
 
 ## **AIM**
 Write a simple Python program to modulate and demodulate the pulse signal and show the following output waveforms:  
